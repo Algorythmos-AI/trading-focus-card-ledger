@@ -1,0 +1,2 @@
+{"2026-11-24-TSLA-put": {"expiry": "20261125", "chain": {"380": {"name": "TSLA_380P", "description": "TSLA NOV 25 '26 380 Put"}}},
+ "2026-11-24-PLTR-call": {"expiry": "20261127", "chain": {"162.5": {"name": "PLTR_162.5C", "description": "PLTR NOV 27 '26 162.5 Call"}}}}
