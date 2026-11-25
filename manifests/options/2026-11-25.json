@@ -1,0 +1,3 @@
+{"2026-11-25-QQQ-put": {"expiry": "20261125", "chain": {"630": {"name": "QQQ_630P", "description": "QQQ NOV 25 '26 630 Put"}}},
+ "2026-11-25-TSLA-put": {"expiry": "20261125", "chain": {"380": {"name": "TSLA_380P", "description": "TSLA NOV 25 '26 380 Put"}}},
+ "2026-11-25-AVGO-put": {"expiry": "20261125", "chain": {"297.5": {"name": "AVGO_297.5P", "description": "AVGO NOV 25 '26 297.5 Put"}}}}
