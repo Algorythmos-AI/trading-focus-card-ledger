@@ -1,0 +1,3 @@
+{"2026-11-27-TSLA-call": {"expiry": "20261127", "chain": {"395": {"name": "TSLA_395C", "description": "TSLA NOV 27 '26 395 Call"}}},
+ "2026-11-27-AAPL-call": {"expiry": "20261127", "chain": {"357.5": {"name": "AAPL_357.5C", "description": "AAPL NOV 27 '26 357.5 Call"}}},
+ "2026-11-27-PLTR-call": {"expiry": "20261127", "chain": {"165": {"name": "PLTR_165C", "description": "PLTR NOV 27 '26 165 Call"}}}}
